@@ -8,7 +8,7 @@ lightning_logs/
 cache/
 *.err
 *.out
-*.py
+demo.py
 exps/ckpts/
 exps/results/
 test.ipynb
