@@ -1,0 +1,29 @@
+data:
+  T: 5
+  k: [4]
+  d: [10]
+  N: [500, 5000, 50000]
+  dag_type: [ER, SF]
+
+methods:
+  OURS:
+    hidden_sizes: []
+    max_epochs: 30
+    batch_size: 2048
+    eta: 1.e-4
+    lr: 0.1
+    l1: null
+  NPVar:
+    method: mgcv
+  DiffAN:
+    residue: False
+    masking: False
+
+ci_params:
+  hidden_sizes: 4
+  n_components: 4
+  max_epochs: 20
+  batch_size: 512
+  lr: 0.1
+  l1: 1.e-5
+  l2: 5.e-5

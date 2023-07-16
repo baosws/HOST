@@ -1,0 +1,27 @@
+data:
+  T: 10
+  N: 700
+  datasets: ['sachs']
+
+methods:
+  OURS:
+    hidden_sizes: []
+    max_epochs: 20
+    batch_size: 1024
+    eta: 1.e-4
+    lr: 0.1
+    l1: null
+  NPVar:
+    method: mgcv
+  DiffAN:
+    residue: False
+    masking: False
+
+ci_params:
+  hidden_sizes: 4
+  n_components: 4
+  max_epochs: 20
+  batch_size: 512
+  lr: 0.1
+  l1: 1.e-5
+  l2: 5.e-5

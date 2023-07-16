@@ -1,0 +1,16 @@
+.neptune/
+.vscode/
+lightning_logs/
+**/.DS_Store
+**/*.pyc
+**/*.csv
+.env
+cache/
+*.err
+*.out
+*.py
+exps/ckpts/
+exps/results/
+test.ipynb
+ipynb_checkpoints/
+**/*.pkl
