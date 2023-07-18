@@ -13,7 +13,7 @@
   <a href="#citation">Citation</a>
 </p>
 
-This is the implementation of our paper: Bao Duong and Thin Nguyen. [Heteroscedastic Causal Structure Learning](). Accepted at the 26th European Conference on Artificial Intelligence (ECAI 2023).
+This is the implementation of our paper: Bao Duong and Thin Nguyen. [Heteroscedastic Causal Structure Learning](https://arxiv.org/abs/2307.07973). Accepted at the 26th European Conference on Artificial Intelligence (ECAI 2023).
 
 ## Setup
 
