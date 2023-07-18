@@ -3,7 +3,7 @@
 
 <p align="center" markdown="1">
     <img src="https://img.shields.io/badge/Python-3.8-green.svg" alt="Python Version" height="18">
-    <a href="https://arxiv.org/"><img src="https://img.shields.io/badge/arXiv-TODO-blue.svg" alt="arXiv" height="18"></a>
+    <a href="https://arxiv.org/abs/2307.07973"><img src="https://img.shields.io/badge/arXiv-2307.07973-b31b1b.svg" alt="arXiv" height="18"></a>
 </p>
 
 <p align="center">
