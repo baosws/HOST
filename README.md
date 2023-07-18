@@ -44,4 +44,11 @@ Experiment configuration can be set in `experiments/*/config.yml`, and result da
 
 ## Citation
 
-TBD
+```
+@article{duong2023heteroscedastic,
+      title={Heteroscedastic Causal Structure Learning}, 
+      author={Bao Duong and Thin Nguyen},
+      year={2023},
+      journal={arXiv preprint arXiv:2307.07973}
+}
+```
