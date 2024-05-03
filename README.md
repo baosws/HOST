@@ -18,7 +18,7 @@ This is the implementation of our paper: Bao Duong and Thin Nguyen. [Heterosceda
 ## Setup
 
 ```bash
-conda env create -n host --file environment.yml
+conda env create -n host --file env_loose.yml # or env_strict.yml
 conda activate host
 ```
 
